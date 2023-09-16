@@ -135,6 +135,7 @@ UPROGS=\
 	$U/_sleep\
 	$U/_pingpong\
 	$U/_xargs\
+	$U/_find\
 
 
 fs.img: mkfs/mkfs README $(UPROGS)

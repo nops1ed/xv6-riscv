@@ -125,6 +125,6 @@ main(int argc ,char *argv[])
   else
     find(argv[1] , argv[2]);
   if (!__FOUND_)
-    printf("find: No such file or directionary\n");
+    printf("find: No such file or directory\n");
   exit(0);
 }
